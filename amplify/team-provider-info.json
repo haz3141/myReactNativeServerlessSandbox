@@ -1,0 +1,15 @@
+{
+    "rnsandbox": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-myreactnativesandbox-rnsandbox-172550-authRole",
+            "UnauthRoleArn": "arn:aws:iam::824313364758:role/amplify-myreactnativesandbox-rnsandbox-172550-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::824313364758:role/amplify-myreactnativesandbox-rnsandbox-172550-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-myreactnativesandbox-rnsandbox-172550-deployment",
+            "UnauthRoleName": "amplify-myreactnativesandbox-rnsandbox-172550-unauthRole",
+            "StackName": "amplify-myreactnativesandbox-rnsandbox-172550",
+            "StackId": "arn:aws:cloudformation:us-east-1:824313364758:stack/amplify-myreactnativesandbox-rnsandbox-172550/788f4220-4866-11ea-b74d-0aa958b6917a",
+            "AmplifyAppId": "dnczevz4frkcf"
+        }
+    }
+}
